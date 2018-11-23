@@ -32,7 +32,7 @@ package com.chrischeng.leet.easy;
  * Note that the input array is passed in by reference, which means modification to the input array will be known to the caller as well.
  */
 
-public class RemoveDuplicatesfromSortedArray {
+public class RemoveDuplicatesFromSortedArray {
 
     public static void main(String[] args) {
         int[] array = new int[]{0, 0, 1, 1, 1, 2, 2, 3, 3, 4};
